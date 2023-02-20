@@ -1,0 +1,26 @@
+,date,type,browser,visits_type,visits_all,ratio
+0,2023-02-16,People,Google Chrome,222.0,230.0,0.9652173913043478
+1,2023-02-16,Robots,Google Chrome,8.0,230.0,0.034782608695652174
+2,2023-02-16,People,Chrome Mobile,124.0,131.0,0.9465648854961832
+3,2023-02-16,Robots,Chrome Mobile,7.0,131.0,0.05343511450381679
+4,2023-02-16,People,Yandex Browser,37.0,40.0,0.925
+5,2023-02-16,Robots,Yandex Browser,3.0,40.0,0.075
+6,2023-02-16,People,Safari,32.0,32.0,1.0
+7,2023-02-16,People,Edge,29.0,29.0,1.0
+8,2023-02-16,People,Firefox,19.0,22.0,0.8636363636363636
+9,2023-02-16,Robots,Firefox,3.0,22.0,0.13636363636363635
+10,2023-02-16,People,Mobile Safari,11.0,15.0,0.7333333333333333
+11,2023-02-16,Robots,Mobile Safari,4.0,15.0,0.26666666666666666
+12,2023-02-16,People,Opera,5.0,6.0,0.8333333333333334
+13,2023-02-16,Robots,Opera,1.0,6.0,0.16666666666666666
+14,2023-02-16,People,Yandex Start: mobile app,3.0,3.0,1.0
+15,2023-02-16,People,MIUI,3.0,3.0,1.0
+16,2023-02-16,People,Vivaldi,2.0,2.0,1.0
+17,2023-02-16,People,Opera Mobile,1.0,2.0,0.5
+18,2023-02-16,Robots,Opera Mobile,1.0,2.0,0.5
+19,2023-02-16,People,Android Browser,1.0,1.0,1.0
+20,2023-02-16,People,Samsung Internet,1.0,1.0,1.0
+21,2023-02-16,People,Яндекс.Браузер lite,1.0,1.0,1.0
+22,2023-02-16,People,Huawei Browser,1.0,1.0,1.0
+23,2023-02-16,Robots,UCWEB,1.0,1.0,1.0
+24,2023-02-16,Robots,Firefox Mobile,1.0,1.0,1.0
