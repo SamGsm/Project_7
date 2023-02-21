@@ -1,5 +1,5 @@
 part_1.csv
-Скачайте данные с Яндекс.Метрики за три текущих дня и посмотрите на распределение посещений сайта по дням. Постройте график с распределением количества посещений от ботов и обычных пользователей сайта Яндекс.Метрика.
+Скачайте данные с Яндекс.Метрики за три текущих дня(2023-02-15, 2023-02-16, 2023-02-17) и посмотрите на распределение посещений сайта по дням. Постройте график с распределением количества посещений от ботов и обычных пользователей сайта Яндекс.Метрика.
 
 part_2.csv
 Определите процент посещений сайта Яндекс.Метрики с бразузера Google Chrome за 2023-02-16.
@@ -15,18 +15,14 @@ part_4.csv
 Hint: обратите внимание, здесь вам нужно найти долю заходов конкретных типов пользователей с конкретного браузера от вообще всех-всех заходов на сайт за этот день.
 
 
-Отправьте данные из предыдущего шага в Google SpreadSheet. Далее отправьте ссылку на получившийся файл в Google SpreadSheet (не забудьте открыть доступ по ссылке, это можно сделать вручную, когда данные уже зальются в таблицу) при помощи vk api себе в личку ВКонтакте. 
-
-
-Другой аналитик уже агрегировал часть данных из метрики, и вам нужно объединить усилия, чтобы получить финальный отчет. Прочитайте дополнительные данные из Google SpreadSheet, объедините вашу таблицу из предыдущего шага с таблицей аналитика и посчитайте количество визитов на человека (отношение visits к users) в разрезе по браузеру и значениям Robots/People.
-В ответе укажите, сколько визитов на уникального пользователя совершается ботами с браузера Google Chrome (округлите до целого)
-
+pet_project.xlsx
+Отправьте данные из предыдущего шага в Google SpreadSheet. Далее отправьте ссылку на получившийся файл в Google SpreadSheet  при помощи vk api себе в личку ВКонтакте. 
 
 
 ___________________________________________________________________________________________________________________________________
 
 part_1.csv
-Download data from Yandex.Metrica for the current three days and look at the distribution of site visits by day. Build a graph with the distribution of the number of visits from bots and regular users of the Yandex.Metrica site.
+Download data from Yandex.Metrica for the current three days(2023-02-15, 2023-02-16, 2023-02-17) and look at the distribution of site visits by day. Build a graph with the distribution of the number of visits from bots and regular users of the Yandex.Metrica site.
 
 
 part_2.csv
@@ -44,8 +40,7 @@ In your answer, indicate the percentage of openings of the site by real Safari u
 Hint: note that here you need to find the share of visits of specific types of users from a specific browser from all-all visits to the site for this day.
 
 
-Submit the data from the previous step to Google SpreadSheet. Next, send a link to the resulting file and the file itself to Google SpreadSheet (do not forget to open access via the link, this can be done manually when the data is already uploaded to the table) using vk api to your personal VKontakte.
+pet_project.xlsx
+Submit the data from the previous step to Google SpreadSheet. Next, send a link to the resulting file and the file itself to Google SpreadSheet using vk api to your personal VKontakte.
 
 
-Another analyst has already aggregated some of the data from the metric, and you need to join forces to get the final report. Read additional data from Google SpreadSheet, join your table from the previous step with the analytics table and count the number of visits per person (ratio of visits to users) by browser and Robots/People values.
-In your answer, indicate how many visits per unique user are made by bots from the Google Chrome browser (round to the nearest whole number)
